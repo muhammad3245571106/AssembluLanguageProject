@@ -1,4 +1,4 @@
-# Number crushing game on 10x10 matrix
+# Number crushing game on 10x10 matrix Using Assembly Laguage
 This project is a number-crushing game in which the user can update the location of characters and if some characters of the same ASCII come close to each other and make a group then they'll be crushed and the user will get a score for it.
 I built this using Assembly language. 
 I work in MASM in Visual Studio with Irvine Library for this project.
